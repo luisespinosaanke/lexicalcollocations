@@ -1,5 +1,6 @@
 # Lexical Collocations
-This is the repository for the EACL 2021 paper ``Evaluating language models for the retrieval and categorization of lexical collocations``. 
+This is the repository for the EACL 2021 paper: 
+- ``Evaluating language models for the retrieval and categorization of lexical collocations``. 
 
 The associated dataset, with predefined train, validation and test splits can be accessed [here](https://github.com/luisespinosaanke/lexicalcollocations/tree/main/data).
 
